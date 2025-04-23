@@ -29,10 +29,7 @@ Uma aplicação React que permite buscar perfis de usuários do GitHub e visuali
 
 ```bash
 # Clone o repositório
-git clone https://github.com/juliapinheiro42/perfil-github.git
-
-# Acesse a pasta
-cd perfil-github
+git clone https://github.com/juliapinheiro42/github-search.git
 
 # Instale as dependências
 npm install
